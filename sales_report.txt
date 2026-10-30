@@ -1,0 +1,4 @@
+Report: 
+1) Total sales: 1750
+2) Average sale: 291.667
+3) Max sale: 1200
